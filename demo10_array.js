@@ -2,7 +2,7 @@
  * Array in ES
  */
 
-`use strict`
+'use strict'
 console.clear();
 
 let a = [1, 2, 3, 4, 5];

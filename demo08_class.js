@@ -2,7 +2,7 @@
  * Define class in ES
  */
 
-`use strict`
+'use strict'
 console.clear();
 
 //? Define base class (parents class)

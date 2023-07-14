@@ -3,7 +3,7 @@
  * Define object with JSON
  */
 
-`use strict`
+'use strict'
 console.clear();
 
 //? shorthand assign
